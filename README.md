@@ -1,1 +1,1 @@
-[PineUI](https://nextjs.org/) Homepage project.
+[PineUI](https://github.com/kyooowe/PineUI-Next) Homepage project.
