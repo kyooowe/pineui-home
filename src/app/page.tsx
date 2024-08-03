@@ -4,7 +4,7 @@ const HomePage = () => {
 			<div
 				className="flex items-center flex-col justify-center px-2 md:px-10 w-full h-full"
 			>
-				<a href="https://dashboard-seven-vert.vercel.app/" className="group inline-block bg-white/[.05] hover:bg-white/[.1] border border-white/[.05] p-1 pl-4 rounded-full shadow-md">
+				<a href="https://pine-ui-next.vercel.app/signin" className="group inline-block bg-white/[.05] hover:bg-white/[.1] border border-white/[.05] p-1 pl-4 rounded-full shadow-md">
 					<p className="mr-2 inline-block text-white text-md">
 						See Pine UI live demo here.
 					</p>
